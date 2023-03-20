@@ -1,4 +1,4 @@
-* Kindle - Online BookStore Management 
+* Online BookStore Management 
 * The Front End is created using Streamlit
 * The Back End is using MariaDB Database
 * Programming Languages used - Python,SQL
